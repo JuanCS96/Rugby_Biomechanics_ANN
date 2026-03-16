@@ -15,7 +15,7 @@
 ## Instructions
 
 - **Prepare the input data**. The input data contain the magnitude of the velocity vector of the 2D midpoint between the C7 and the lumbar top-plane locations. The input data do not need to be scaled or length-normalized. An example input data file is provided:
-![Example input data](https://github.com/JuanCS96/Rugby_Biomechanics_ANN/testData/velTestData.csv)
+[Example input data](https://github.com/JuanCS96/Rugby_Biomechanics_ANN/blob/main/testData/velTestData.csv)
 
 - **The ANN predict the shoulder contact force in rugby scrummaging**
 
