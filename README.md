@@ -25,4 +25,4 @@ See the example [Python code](https://github.com/JuanCS96/Rugby_Biomechanics_ANN
 
 If you use this code, please cite the article associated with this study:
 
-- Juan Cordero-Sánchez, Zak Sheehy, Gil Serrancolí, Ezio Preatoni, Grant Trewartha, Dario Cazzola. Prediction of on-field rugby scrummaging contact forces from videos using Artificial Neural Networks
+- Cordero-Sánchez J, Sheehy Z, Serrancolí G, Preatoni E, Trewartha G, Cazzola D (2026) Prediction of on-field rugby scrummaging contact forces from videos using artificial neural networks. PLoS One 21(4): e0330097. https://doi.org/10.1371/journal.pone.0330097
